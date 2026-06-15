@@ -1,3 +1,2 @@
-Hello Everyone!
-Welcome to this demo project.
-This file is created for testing Git and Azure Repos operations.
+Welcome to the Demo Repository
+This repository contains sample files used for testing and practice.
